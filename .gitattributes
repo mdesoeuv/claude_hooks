@@ -1,0 +1,4 @@
+# Keep LF endings on scripts even when cloned from Windows, so they run under WSL.
+*.sh   text eol=lf
+*.py   text eol=lf
+*.json text eol=lf
